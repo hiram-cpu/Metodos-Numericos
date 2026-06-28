@@ -24,3 +24,5 @@ Para ejecutar esta herramienta correctamente, necesitas:
 * **Lenguaje:** Visual Basic for Applications (VBA)
 * **Entorno:** Microsoft Excel (Manejo de UserForms y manipulación de celdas)
 * **Área de aplicación:** Análisis Numérico, Ingeniería y Modelado Matemático
+
+![Tablero de Control de COVID-19](Metodos.png)
